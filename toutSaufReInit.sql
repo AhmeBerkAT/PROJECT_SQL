@@ -1,0 +1,28 @@
+@./moreTriggers/contrainte_date_publication.sql
+@./moreTriggers/contrainte_date_vision.sql
+@./moreTriggers/contrainteNaissance.sql
+@./moreTriggers/contrainteSeptJours.sql
+--procedures
+@./proceduresFonctions/procsFuncs.sql
+@./proceduresFonctions/insert_newSuggestions.sql
+@./proceduresFonctions/archive_old_videos.sql
+--triggers
+@./triggersAndTests/triggerArchive.sql
+@./triggersAndTests/triggerSpam.sql
+@./triggersAndTests/triggerFavorisLimite.sql
+--tests triggers
+@./triggersAndTests/test_triggerArchive.sql
+@./triggersAndTests/test_triggerSpam.sql
+@./triggersAndTests/test_triggerFavoris.sql
+--more triggers
+@./moreTriggers/testNaissance.sql
+@./moreTriggers/testDatePublication.sql
+@./moreTriggers/testDateVision.sql
+@./moreTriggers/testSeptJours.sql
+--procedures
+@./proceduresFonctions/testProcsFuncs.sql
+@./proceduresFonctions/test_newSuggestions.sql
+@./proceduresFonctions/test_archive_old.sql
+
+@./requetesIndex/dropIndex.sql
+@./requetesIndex/requetes.sql

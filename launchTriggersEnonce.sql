@@ -1,0 +1,1 @@
+@./triggersAndTests/launchTests.sql
